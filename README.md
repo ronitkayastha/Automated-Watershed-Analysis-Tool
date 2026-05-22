@@ -3,7 +3,8 @@
 This tool automates the full watershed analysis workflow — from a raw DEM to a complete hydrologic parameter report — reducing manual GIS processing time significantly. It follows the standard D8 flow-routing methodology and extracts morphometric, drainage, elevation, and hydrologic parameters.
 
 Features
-*Automated D8 hydrology stack — Fill, FlowDirection, FlowAccumulation, StreamOrder, Watershed
+
+**Automated D8 hydrology stack — Fill, FlowDirection, FlowAccumulation, StreamOrder, Watershed
 
 *Morphometric analysis — Area, Perimeter, Form Factor, Compactness, Circularity, Elongation Ratio
 
