@@ -4,7 +4,7 @@ This tool automates the full watershed analysis workflow — from a raw DEM to a
 
 Features
 
-#Automated D8 hydrology stack — Fill, FlowDirection, FlowAccumulation, StreamOrder, Watershed
+*Automated D8 hydrology stack — Fill, FlowDirection, FlowAccumulation, StreamOrder, Watershed
 
 *Morphometric analysis — Area, Perimeter, Form Factor, Compactness, Circularity, Elongation Ratio
 
